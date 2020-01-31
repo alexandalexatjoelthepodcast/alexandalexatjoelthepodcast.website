@@ -5,7 +5,7 @@ body {
 }
 
 #pic {
-    height: calc(3010px/8);
-    width: calc(2575px/8);
+    height: 430px;
+    width: 368px;
     display: inline-block;
 }
