@@ -16,3 +16,8 @@ body {
     background-color:#ff00ff;
     color: #ffffff;
 }
+
+.shoppic {
+    max-=width: 100%;
+    height: auto;
+}
