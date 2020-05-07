@@ -9,3 +9,10 @@ body {
     width: 430px;
     display: inline-block;
 }
+
+.shopitem {
+    width: 50%;
+    max-width: 500px;
+    background-color:#ff00ff;
+    color: #ffffff;
+}
